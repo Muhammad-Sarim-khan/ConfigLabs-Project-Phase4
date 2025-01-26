@@ -1,0 +1,20 @@
+ 
+# .gitignore file
+
+# Node.js modules
+node_modules/
+
+# Log files
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Build output
+.next/
+
+# IDE and editor config files
+.vscode/
+.idea/
+.DS_Store
